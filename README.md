@@ -10,9 +10,8 @@ Create a virtual lab environment aimed to establish a controlled environment for
 
 ## Steps
 1. Create an internal virtual switch manager to isolate environment.
-![image](https://github.com/user-attachments/assets/d6f072e5-2744-4160-ae0d-e3515594c49a)
-
-![image](https://github.com/user-attachments/assets/b424292d-b1a1-4c72-97db-1668d4b93728)
+  ![image](https://github.com/user-attachments/assets/d6f072e5-2744-4160-ae0d-e3515594c49a)
+  ![image](https://github.com/user-attachments/assets/b424292d-b1a1-4c72-97db-1668d4b93728)
 
 
 *Ref 1: Network Diagram*
